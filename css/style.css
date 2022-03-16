@@ -1,0 +1,18 @@
+.col-sm-4 {
+    background-color: pink;
+    padding: 25px;
+    text-align: center;
+}
+.col-sm-5 {
+    background-color: plum;
+    padding: 25px;
+}
+.col-sm-7 {
+    background-color: salmon;
+    padding: 25px;
+}
+.col2 {
+    background-color:slateblue;
+    padding: 25px;
+    text-align: center;
+}
